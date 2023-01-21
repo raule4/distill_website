@@ -1,0 +1,33 @@
+---
+title: "Raul Estrada"
+image: "frank.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/in/raulestrada target = '_blank' "
+  - label: GitHub
+    url: "https://github.com/raule4 target = '_blank' "
+  - label: Email
+    url: "mailto:raulestradaux@gmail.com target = '_blank' "
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+ 
+### Bio
+
+Raul Estrada studies spatial and temporal analytics at the El Paso Electric Co.
+
+### Education
+
+**Bentley University** | Waltham, MA
+
+M.S. in Human Factors in Information Design
+
+**The University of Texas at El Paso** | El Paso, TX
+
+M.S. in Economics  
+B.S. in Electrical Engineering  
+
+### Experience
+
+**Pershing, a BNY Mellon Co.** | **Ernst & Young LLC** | **Lockheed Martin Co.**
