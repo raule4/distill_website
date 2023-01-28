@@ -1,6 +1,6 @@
 ---
 title: "Raul Estrada"
-image: "frank.jpg"
+image: "ProfilePhoto2.jpg"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/in/raulestrada target = '_blank' "
